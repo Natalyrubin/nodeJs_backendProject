@@ -32,7 +32,7 @@ This project is an API for managing business cards, allowing users to create, re
 3. Create a `.env` file in the root directory with the following content:
     ```env
     PORT=3000
-    JWT_SECRET="your_jwt_secret"
+    JWT_SECRET="iLoveIsrael123!@#"
     JWT_EXPIRES_IN="60m"
     MONGODB_URI_DEV="mongodb://localhost:27017/bcards_dev"
     MONGODB_URI_PROD="mongodb://localhost:27017/bcards_prod"
