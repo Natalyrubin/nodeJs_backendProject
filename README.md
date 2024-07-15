@@ -19,8 +19,8 @@ This project is an API for managing business cards, allowing users to create, re
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/business-cards-api.git
-    cd business-cards-api
+    git clone https://github.com/Natalyrubin/nodeJs_backendProject.git
+    cd nodeJs_backendProject
     ```
 
 2. Initialize npm:
